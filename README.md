@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on interesting projects aiming at solving daily challenges related to 'productivity🎯' and 'education🏅📚'
-- 🌱 I’m currently learning HTML, CSS & JS
+- 🌱 I’m currently learning HTML, CSS & JS, and I've got some interest in Augmented Reality and its potential to enhance education in Africa.
 - 👯 I’m looking to collaborate on most of my projects
 - 🤔 I’m looking for help with web and mobile app development.
 - 💬 Ask me about Python and Java 

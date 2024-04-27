@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with web and mobile app development.
 - 💬 Ask me about Python and Java 
 - 📫 How to reach me: link_to_my_portfolio
-- 😄 Pronouns: He/Him
+- 😎 Pronouns: He/Him
 - ⚡ Fun fact: I love animals and small kids because they can both communicate effectively, even without saying a word.
 
 <!--

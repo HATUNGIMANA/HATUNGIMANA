@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on interesting personal projects
+- 🔭 I’m currently working on interesting projects aiming at solving daily challenges related to 'productivity🎯' and 'education🏅📚'
 - 🌱 I’m currently learning HTML, CSS & JS
 - 👯 I’m looking to collaborate on most of my projects
 - 🤔 I’m looking for help with web and mobile app development.

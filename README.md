@@ -6,7 +6,7 @@
 - 💬 Ask me about Python and Java.
 - 📫 How to reach me: https://eric-hatungimana.vercel.app/ (MY PORTFOLIO:work in progress)
 - 😎 Pronouns: He/Him
-- ⚡ Fun fact: I love animals and small kids because they can both communicate effectively, even without saying a word.
+- ⚡ Fun fact: I love animals and small kids because they can communicate effectively, even without saying a word.
 
 <!--
 **HATUNGIMANA/HATUNGIMANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

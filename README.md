@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on most of my projects.
 - 🤔 I’m looking for help with web and mobile app development.
 - 💬 Ask me about Python and Java.
-- 📫 How to reach me: link_to_my_portfolio
+- 📫 How to reach me: https://eric-hatungimana.vercel.app/ (MY PORTFOLIO:work in progress)
 - 😎 Pronouns: He/Him
 - ⚡ Fun fact: I love animals and small kids because they can both communicate effectively, even without saying a word.
 
